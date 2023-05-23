@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BarryWeep
-- 👀 I’m interested in ...3D-modelling 
-- 🌱 I’m currently learning ... React.js 
+- 👀 I’m interested in ...Challenging my self
+- 🌱 I’m currently learning ... advanced web language
 - 💞️ I’m looking to collaborate on ...programming project
 - 📫 How to reach me ... Weepbarry@gmail.com
 
